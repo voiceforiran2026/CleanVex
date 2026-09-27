@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <defs>
-    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#C8952E"/>
-      <stop offset="100%" stop-color="#A67928"/>
-    </linearGradient>
-  </defs>
-  <rect width="32" height="32" rx="7" fill="url(#g)"/>
-  <text x="16" y="22" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="700" font-size="14" fill="#fff">CV</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><linearGradient id="g" y2="1"><stop stop-color="#C8952E"/><stop offset="1" stop-color="#A67928"/></linearGradient></defs><rect width="64" height="64" rx="14" fill="url(#g)"/><path fill="#fff" d="M21.28 43.86Q18.71 43.86 16.51 42.96Q14.31 42.07 12.67 40.44Q11.02 38.81 10.11 36.64Q9.2 34.48 9.2 31.97Q9.2 29.46 10.11 27.29Q11.02 25.13 12.65 23.53Q14.28 21.93 16.48 21.04Q18.68 20.14 21.25 20.14Q23.99 20.14 26.12 21.02Q28.25 21.9 29.85 23.43L26.43 26.89Q25.52 25.91 24.23 25.35Q22.94 24.8 21.25 24.8Q19.75 24.8 18.5 25.31Q17.24 25.81 16.35 26.75Q15.45 27.7 14.95 29.04Q14.44 30.37 14.44 31.97Q14.44 33.6 14.95 34.93Q15.45 36.27 16.35 37.21Q17.24 38.16 18.5 38.68Q19.75 39.2 21.25 39.2Q23.01 39.2 24.31 38.65Q25.61 38.09 26.56 37.11L30.01 40.57Q28.35 42.1 26.22 42.98Q24.08 43.86 21.28 43.86ZM41.45 43.5 32.59 20.5H38.06L44.8 39.1H42.56L49.4 20.5H54.8L45.85 43.5Z"/></svg>

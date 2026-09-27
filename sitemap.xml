@@ -1,63 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://cleanvex.com.tr/</loc>
-    <lastmod>2026-03-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <loc>https://www.cleanvex.com.tr/</loc>
+    <lastmod>2026-09-27</lastmod>
   </url>
   <url>
-    <loc>https://cleanvex.com.tr/hizmetler</loc>
-    <lastmod>2026-03-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <loc>https://www.cleanvex.com.tr/hizmetler</loc>
+    <lastmod>2026-09-27</lastmod>
   </url>
   <url>
-    <loc>https://cleanvex.com.tr/hizmetler/tesis-yonetimi</loc>
-    <lastmod>2026-03-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://www.cleanvex.com.tr/hizmetler/tesis-yonetimi</loc>
+    <lastmod>2026-09-27</lastmod>
   </url>
   <url>
-    <loc>https://cleanvex.com.tr/hizmetler/peyzaj</loc>
-    <lastmod>2026-03-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://www.cleanvex.com.tr/hizmetler/peyzaj</loc>
+    <lastmod>2026-09-27</lastmod>
   </url>
   <url>
-    <loc>https://cleanvex.com.tr/hizmetler/havuz</loc>
-    <lastmod>2026-03-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://www.cleanvex.com.tr/hizmetler/havuz</loc>
+    <lastmod>2026-09-27</lastmod>
   </url>
   <url>
-    <loc>https://cleanvex.com.tr/hizmetler/ilaclama</loc>
-    <lastmod>2026-03-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://www.cleanvex.com.tr/hizmetler/ilaclama</loc>
+    <lastmod>2026-09-27</lastmod>
   </url>
   <url>
-    <loc>https://cleanvex.com.tr/hizmetler/temizlik</loc>
-    <lastmod>2026-03-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://www.cleanvex.com.tr/hizmetler/temizlik</loc>
+    <lastmod>2026-09-27</lastmod>
   </url>
   <url>
-    <loc>https://cleanvex.com.tr/hizmetler/insaat-sonrasi</loc>
-    <lastmod>2026-03-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://www.cleanvex.com.tr/hizmetler/yuksek-yapi</loc>
+    <lastmod>2026-09-27</lastmod>
   </url>
   <url>
-    <loc>https://cleanvex.com.tr/hakkimizda</loc>
-    <lastmod>2026-03-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://www.cleanvex.com.tr/hakkimizda</loc>
+    <lastmod>2026-09-27</lastmod>
   </url>
   <url>
-    <loc>https://cleanvex.com.tr/iletisim</loc>
-    <lastmod>2026-03-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://www.cleanvex.com.tr/iletisim</loc>
+    <lastmod>2026-09-27</lastmod>
+  </url>
+  <url>
+    <loc>https://www.cleanvex.com.tr/kvkk-aydinlatma-metni</loc>
+    <lastmod>2026-09-27</lastmod>
+  </url>
+  <url>
+    <loc>https://www.cleanvex.com.tr/cerez-politikasi</loc>
+    <lastmod>2026-09-27</lastmod>
   </url>
 </urlset>
